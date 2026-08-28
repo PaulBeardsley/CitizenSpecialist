@@ -1,0 +1,9 @@
+ProductID	ProductName	Category	ProductCost	Supplier
+201	Widget A	Widgets	8.0	X
+202	Widget B	Widgets	9.5	Company Y
+203	Gadget C	Gadgets	10.0	Company X
+204	Gadget D	Gadgets	12.0	Company Z
+205	Tool E	Tools	7.5	Company Y
+206	Tool F	Tools	15.0	X
+207	Kit G	Kits	20.0	Company Z
+208	Kit H	Kits	25.0	Company X

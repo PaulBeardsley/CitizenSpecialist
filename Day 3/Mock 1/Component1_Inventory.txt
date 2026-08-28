@@ -1,0 +1,6 @@
+ProductID	ProductName	Category	StockLevel	RestockThreshold
+P01	Widget	Tools	74	30
+P02	Gadget	Electronics	81	25
+P03	Thingamajig	Toys	42	40
+P04	Doohickey	Home	28	50
+P05	Gizmo	Office	31	20

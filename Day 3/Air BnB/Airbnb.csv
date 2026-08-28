@@ -1,0 +1,179 @@
+host id,NAME,Property Type code ,host_identity_verified,Host name ,neighbourhood group,instant_bookable,cancellation_policy,room type,Construction year,Price per night ,Monthly service fee,Annual service fee ,minimum nights,last review,reviews per month,review rate number,number of reviews
+631723462,Huge sunny room PRIVATE BATHROOM 15 min to Central Park,SR,verified,Carlos Louigi,Queens,TRUE,flexible,Shared room,2020,294.52,59,708,1,16/06/22,1.64,5,21
+658885125,"Modern, Quiet & Ultra Clean 1 BDRM Steps Subway",AP,unconfirmed,Jamie  Smith,Queens,TRUE,flexible,Entire home/apt,2013,196.62,39,468,3,24/05/22,0.37,3,30
+973585651,"A room w/ a Manhattan view, longer stay",PR,unconfirmed,Dominik Jones,Queens,,,Private room,2018,355.9,71,852,30,03/04/22,2.78,2,30
+2404632793,"The large, sunny  two people room. 20 min to city!",PR,verified,Barbara  Robertson,Queens,TRUE,flexible,Private room,2019,125.7,25,300,4,04/12/22,0.26,1,28
+2404632793,"The large, sunny  two people room. 20 min to city!",PR,verified,Barbara  Robertson,Queens,TRUE,flexible,Private room,2019,125.7,Private room ,2532,4,04/12/22,0.26,1,28
+4359407081,"Cozy room with balcony, 15min Manhattan",AP,,Kaka Cooper,Queens,TRUE,strict,Private room,2016,"1,038.81",116,1392,1,13/02/22,4.64,3,49
+4743676837,"COZY STUDIO in Sunnyside/Queens, NY",AP,unconfirmed,Elena A Clarke,Queens,TRUE,moderate,Entire home/apt,2015,582.7,226,2712,30,24/06/22,1.89,1,111
+5211972763,"Sun-filled room in a quiet, historic neighborhood.",PR,unconfirmed,Kazuya Morgan,Queens,FALSE,flexible,Private room,2020,401.2,87,1044,30,03/01/20,2.05,3,10
+5549192836,15 Mins to Times Square & Manhattan-3 BR Apartment,AP,verified,Lasata Scott,Queens,FALSE,strict,Entire home/apt,2016,436.2,100,1200,45,20/02/22,0.07,3,2
+6058853500,"Tranquil & Economical Room, 10min Walk to Station!",PR,unconfirmed,Kaz Phillips,Queens,TRUE,flexible,Private room,2016,498.81,100,1200,30,26/05/22,0.61,3,8
+6791149687,Small cozy furnished bedroom in Sunnyside Queens,PR,verified,Victor-Andres Davis,Queens,TRUE,moderate,Private room,2018,"1,188.24",223,2676,2,07/03/22,0.89,1,42
+6955213645,Spacious homey clean convenient 15m to Manhattan,AP,unconfirmed,Lucky Parker,Queens,FALSE,moderate,Private room,2021,"1,115.29",34,408,3,28/06/22,4.73,3,29
+7643604805,Very big room in Designed apt.15 mins to Manhattan,PR,unconfirmed,Belgin Price,Queens,FALSE,flexible,Private room,2020,172.1,158,1896,2,01/10/20,1.54,5,57
+8079261222,Large Sunnyside Apartment 20 min to Times Square,AP,verified,Michael Cook,Queens,FALSE,strict,Entire home/apt,2017,789.53,39,468,14,25/06/22,3.08,4,46
+8092091334,Urban Oasis in Sunnyside Gardens,PR,unconfirmed,Mark Carter,Queens,TRUE,moderate,Private room,2013,196.55,73,876,2,27/07/22,0.06,3,2
+8295256466,"Spacious room in a clean, quiet and cozy home.",PR,unconfirmed,Luis Anderson,Queens,TRUE,strict,Private room,2017,829.77,46,552,1,27/05/22,0.71,3,27
+8295256466,"Spacious room in a clean, quiet and cozy home.",PR,unconfirmed,Luis Anderson,Queens,TRUE,strict,Private room,2017,829.77,73,876,1,27/05/22,0.71,3,27
+8418210852,"Lovely rental unit, close to Manhattan!!",PR,unconfirmed,Sofia Ellis,Queens,FALSE,strict,Private room,2022,230.6,169,2028,1,07/02/22,3.64,2,4
+8525434282,Sunnysid -Locals' favorite neighbor for living,PR,verified,Soya Adams,Queens,FALSE,strict,Private room,2012,120.59,76,912,30,20/06/22,2.53,3,58
+9149066175,Beautiful big room 10 min from Times Square,PR,verified,Kary Chapman,Queens,TRUE,flexible,Private room,2019,494.63,138,1656,3,30/06/22,3.36,1,106
+9598659400,Airy Living Room | 15 min. to GC,SR,verified,Sarah Rogers,Queens,FALSE,moderate,Shared room,2021,690.9,25,300,1,17/05/22,0.33,3,10
+10468860126,Room for Rent -  Close to City & Clean,PR,unconfirmed,Caitlin Hunt,Queens,FALSE,moderate,Private room,2018,971.5,22,264,2,27/10/22,0.62,5,29
+10998425347,Studio 15min away from NYC midtown,AP,unconfirmed,Edgar Hussain,Queens,TRUE,moderate,Entire home/apt,2021,124.16,213,2556,2,15/01/22,0.1,5,4
+11246405944,Sweet Studio Apartment in Sunnyside,AP,unconfirmed,Steve Palmer,Queens,TRUE,flexible,Entire home/apt,2012,109.61,23,276,3,07/05/22,1.94,4,4
+11478896331,"Quaint, sunny, and quiet room overlooking garden.",PR,unconfirmed,Amey Holmes,Queens,TRUE,strict,Private room,2014,"1,065.59",136,1632,2,06/10/22,0.44,4,3
+11893250177,Cozy Queens 1 Bedroom 15 Min From Manhattan,AP,verified,Charles Lloyd,Queens,TRUE,flexible,Entire home/apt,2013,346.39,23,276,30,07/05/22,4.73,2,94
+12367525142,Stunning 2BR Apartment in Sunnyside,AP,verified,Steve Butler,Queens,TRUE,strict,Entire home/apt,2017,251,166,1992,2,07/07/22,2.45,2,22
+13291240388,Rent in beautiful Sunnyside Gardens for holidays,PR,verified,Jazmin Dixon,Queens,FALSE,flexible,Private room,2021,343.2,60,720,3,01/09/21,3.03,5,225
+13417968764,"Cozy Apt, 10 mins to Mid-Town.. Near LGA and JFK..",PR,verified,Juan Ahmed,Queens,FALSE,flexible,Entire home/apt,2012,888.58,185,2220,4,07/07/22,2.31,3,25
+14700761979,Gone with the Wind,AP,unconfirmed,Fernando Pearce,Queens,TRUE,strict,Entire home/apt,2013,733.55,161,1932,5,13/10/22,0.23,5,10
+14793497306,Recently renovated private floor,AP,unconfirmed,Jennifer Lawrence,Queens,TRUE,flexible,Entire home/apt,2020,634.8,91,1092,1,19/06/22,1,2,1
+14904883782,Female Only Clean15min to Manhattan,PR,unconfirmed,Aida Cole,Queens,TRUE,strict,Private room,2017,805.3,225,2700,40,30/06/22,1.74,3,4
+15850947879,Share;Almost Heart of Manhattan;Safe and Silent !!,SR,unconfirmed,Baboucarr Atkinson,Queens,TRUE,flexible,Shared room,2017,453.41,53,636,3,19/06/22,1.26,5,54
+15974684451,"Private bathroom with balcony,15mins to Manhattan",PR,verified,Kaka Gill,Queens,FALSE,strict,Private room,2016,"1,124.20",61,732,1,23/06/22,0.42,5,6
+16144052278,1BR+Futon+Terrace 20' to Manhattan,AP,verified,Alex Burton,Queens,TRUE,strict,Entire home/apt,2012,264,206,2472,3,26/06/22,3.92,3,91
+16170456011,"3 bedroom beautiful, cozy apt close to Times Sq.",AP,verified,Nusrat O’Brien,Queens,FALSE,strict,Entire home/apt,2015,305.24,32,384,1,13/11/22,0.23,5,5
+16962124748,"Very chic place, 15 min to the heart of Manhattan",AP,verified,Costa Rose,Queens,FALSE,moderate,Entire home/apt,2017,"1,031.50",211,2532,3,18/01/22,1.95,4,102
+17018394290,Vintage NY apt - 15min from Midtown,AP,unconfirmed,Pao Francis,Queens,TRUE,flexible,Entire home/apt,2020,161.1,97,1164,30,28/04/22,0.37,2,12
+17387275864,Relaxing City - Sunnyside : Easy access Manhattan,PR,verified,Takatomo Hayes,Queens,TRUE,strict,Private room,2012,"1,054.67",43,516,30,19/06/22,0.32,2,6
+17935727185,15 min to Mid Manhathan New York room,PR,unconfirmed,Diana Hart,Queens,FALSE,strict,Private room,2020,484,235,2820,3,06/09/22,1.37,4,53
+18924393895,"Beautifull Large 1bd Apartm, 15 min to Manhattan.",AP,unconfirmed,Sammy Marsh,Queens,TRUE,strict,Entire home/apt,2015,381.6,217,2604,2,01/02/22,1.02,5,95
+19155984314,View of Empire State Building!,AP,unconfirmed,Tavia Woods,Queens,TRUE,flexible,Entire home/apt,2017,451.8,17,204,2,27/03/22,0.08,4,1
+19563268235,Sunny Private Bedroom in an apartment Sunnyside,PR,unconfirmed,Franklyn Berry,Queens,TRUE,moderate,Private room,2014,83.24,130,1560,2,01/02/22,3.44,5,15
+19831201514,Private RM | Queens | 20min to city,PR,unconfirmed,Victoria Reed,Queens,TRUE,strict,Private room,2016,650.4,183,2196,2,09/01/20,0.05,3,1
+20275223531,"Lovely Rental Unit,Close To Manhathan",AP,verified,Marco Shah,Queens,TRUE,flexible,Private room,2012,917.19,225,2700,1,19/06/22,1.74,4,7
+20463639470,Sunnyside,AP,verified,Kaan Cooke,Queens,FALSE,flexible,Entire home/apt,2016,355.93,134,1608,2,25/08/22,0.18,3,2
+21362237966,Private Lg Room 15 min to Manhattan,PR,unconfirmed,Iris Burgess,Queens,FALSE,moderate,Private room,2021,"1,123.30",233,2796,2,19/12/22,0.99,2,3
+21443970226,"SHARE;Cheapest,Silent,Clean and Safe in New York",SR,verified,Erin V. Burns,Queens,TRUE,flexible,Shared room,2018,"1,165.51",32,384,1,01/06/22,0.51,5,1
+21456088261,Beautiful large private room in Sunnyside Gardens,PR,verified,Sen Nicholson,Queens,TRUE,moderate,Private room,2012,206.14,62,744,1,22/06/22,3.47,3,73
+21545786437,Bright & Large Open Studio 15 Min To Manhattan,AP,unconfirmed,Elan Ross,Queens,FALSE,strict,Entire home/apt,2021,160.35,94,1128,30,20/06/22,1.71,4,19
+23890947930,Huge room near Manhattan w/ balcony & free pickup!,PR,unconfirmed,Jared Sharp,Queens,TRUE,strict,Private room,2019,363.83,101,1212,1,23/12/21,0.13,5,6
+25121739393,"private oasis in sunnyside, queens",AP,unconfirmed,Erika Potter,Queens,FALSE,moderate,Entire home/apt,2012,504.82,63,756,2,30/03/21,0.78,2,26
+25624700718,Rent in beautiful Sunnyside Gardens,AP,unconfirmed,Jazmin Johnston,Queens,TRUE,moderate,Entire home/apt,2019,313.64,111,1332,3,28/03/21,0.02,5,1
+26072565088,Charming safe Queens room w/ lots of SUN!,PR,verified,Kaz Jones,Queens,TRUE,flexible,Private room,2016,554.11,12,144,30,07/03/22,2.35,1,89
+26630813713,19min to Manhattan & Safe Neighborhood&PrivateRoom,PR,verified,Takatomo Smith,Queens,TRUE,flexible,Private room,2015,223.18,38,456,30,04/07/22,0.21,2,4
+27167500589,Classic Getaway in Sunnyside's lively neighborhood,AP,unconfirmed,Aurgho Morgan,Queens,FALSE,moderate,Entire home/apt,2018,555.99,208,2496,2,23/06/22,0.58,3,48
+27402494314,private  room LONG Term Welcome Safe neighborhood,PR,verified,Michael Hunter,Queens,FALSE,flexible,Private room,2015,370.64,201,2412,7,18/06/22,3.7,2,59
+27941652184,"Cozy 1 BR Apt - Sunnyside, Queens",AP,verified,David Robertson,Queens,FALSE,strict,Entire home/apt,2018,182.5,204,2448,1,14/06/22,1.28,5,47
+28276152401,"Well-located Apt in Sunnyside, NYC",AP,unconfirmed,Kyoung Jones,Queens,FALSE,moderate,Entire home/apt,2013,"1,018.70",152,1824,1,26/05/22,0.28,5,11
+29564409217,Near to Manhattan and large 2BD Apt,AP,verified,Edmund Williams,Queens,FALSE,strict,Entire home/apt,2014,328.5,53,636,4,05/05/21,1.03,2,15
+29615692482,19min to Manhattan&Safe Neighborhood&PrivateRoom,PR,verified,Takatomo Johnson,Queens,FALSE,flexible,Private room,2016,762.16,161,1932,30,16/09/21,0.33,3,2
+29906123101,Classic NYC House - Large 3-Bed 2-Bath Apartment,AP,unconfirmed,Alexandra Wilson,Queens,TRUE,flexible,Entire home/apt,2017,264.12,111,1332,3,18/06/21,3.05,5,100
+30932756188,"Sunnyside, New York - Stay and get connected",PR,verified,Sp Cooper,Queens,TRUE,flexible,Private room,2019,"1,084.00",199,2388,2,24/01/22,0.3,1,13
+31123051136,Nice and comfortable place very close to Manhattan,PR,unconfirmed,Haroun Wood,Queens,FALSE,strict,Private room,2016,994.67,68,816,2,25/06/22,1,5,1
+31172824307,Charming apartment in the heart of Sunnyside,AP,unconfirmed,Saleem Patel,Queens,FALSE,strict,Entire home/apt,2017,403.27,129,1548,2,26/01/22,1.66,4,16
+31888147899,Sunny bedroom in a designer apartment,PR,unconfirmed,Swann Smith,Queens,TRUE,flexible,Private room,2020,338.6,157,1884,3,06/09/22,2.26,3,35
+32808330087,Clean 2 bedroom home in a safe area near Manhattan,PR,verified,Keith Wilson,Queens,FALSE,moderate,Private room,2014,783.38,50,600,2,29/11/21,0.59,4,25
+33060458895,Bright & Spacious 15 mins to Midtown Manhattan,PR,unconfirmed,Steve Adams,Queens,FALSE,flexible,Private room,2012,78.5,15,180,2,09/05/21,0.16,5,5
+34025110950,"Large One Bedroom Apartment, 15 mins to Manhattan",AP,verified,Bill & Regina Jones,Queens,FALSE,flexible,Entire home/apt,2016,77.2,74,888,6,28/11/21,0.24,4,1
+36642944881,Sunny apartment,PR,verified,Juliana Parker,Queens,TRUE,flexible,Private room,2022,506.39,164,1968,3,07/02/22,1.38,4,9
+37482829668,Private 1BR Apt in Sunnyside Close to Train & LGA,AP,verified,Brie Lee,Queens,TRUE,moderate,Entire home/apt,2021,525.73,186,2232,4,06/01/21,0.79,2,1
+37559335306,Private room in Sunnyside 1,PR,verified,Nurcan Phillips,Queens,TRUE,flexible,Private room,2013,124.3,234,2808,1,06/08/22,1.39,5,21
+38105411965,"Light-filled, cozy apartment -convenient location!",AP,verified,Payal Webb,Queens,TRUE,flexible,Entire home/apt,2017,929.24,100,1200,3,21/06/22,2.69,2,93
+39080018733,Cute Bedroom for Two in Sunnyside near Manhattan,PR,verified,Lidia Davis,Queens,FALSE,flexible,Private room,2019,"1,168.65",49,588,3,28/05/22,2.9,2,258
+39360575935,Nice Room in Sunnyside (15 min to Times Square),PR,verified,Grace Price,Queens,TRUE,moderate,Private room,2013,502.27,138,1656,1,01/02/22,1.02,4,5
+39447695724,"Spacious Room for 2 in Sunnyside, near Manhattan",PR,unconfirmed,Lidia Parker,Queens,TRUE,moderate,Private room,2022,243.18,215,2580,3,29/06/22,5.05,2,16
+40553626275,Sunnyside Modern Apartment that sleeps 4 people.,AP,unconfirmed,Angelo Foster,Queens,TRUE,moderate,Entire home/apt,2022,623.52,233,2796,2,16/11/22,0.55,1,53
+40952116428,7. Beautiful Clean room just 20mnts to Manhattan,PR,unconfirmed,Han Miller,Queens,FALSE,flexible,Private room,2017,225.36,39,468,2,30/05/22,0.99,1,7
+41064176446,Quiet/Clean minutes to Manhattan,PR,unconfirmed,John Phillips,Queens,FALSE,strict,Private room,2015,"1,165.80",195,2340,2,18/05/22,0.89,3,63
+41213384618,Sunnyside's beauty,AP,verified,Sammy Begum,Queens,FALSE,strict,Entire home/apt,2020,197.78,31,372,2,28/06/22,1.12,5,89
+41445065234,A Private Room,SR,verified,Syeda Cook,Queens,FALSE,flexible,Private room,2013,977.59,23,276,1,20/06/22,1,3,1
+42189682847,Big apartment with top view! 1 block from subway.,AP,verified,Alvaro Clarke,Queens,FALSE,strict,Entire home/apt,2012,113.6,187,2244,2,29/06/22,2.49,2,34
+44153520708,clean room in sunnyside,SR,unconfirmed,Dilek Davis,Queens,FALSE,strict,Shared room,2016,936.9,47,564,5,06/10/22,0.91,4,40
+45344017226,Big Private Room in quite place with green view.,PR,unconfirmed,Ali Parker,Queens,TRUE,strict,Private room,2020,233.84,37,444,6,07/07/22,2.28,4,23
+45442617425,RENTING SPACE IN WOODSIDE NYC,SR,verified,Ioanna Price,Queens,FALSE,strict,Shared room,2021,236,19,228,1,12/09/21,0.34,2,1
+46251332242,Private Suite in NYC 15 minutes to Times Square,PR,verified,Ayesha Miller,Queens,TRUE,moderate,Private room,2019,441.72,202,2424,1,28/05/22,0.78,3,27
+46443653680,"Private large room,15 mins to times sq 1-2 person",PR,unconfirmed,Busra Phillips,Queens,FALSE,strict,Private room,2018,"1,172.39",132,1584,5,01/02/22,0.32,4,2
+48941308130,Lovely Spacious Home Close to Manhattan & Airports,AP,unconfirmed,Alba Begum,Queens,FALSE,flexible,Entire home/apt,2012,102.17,134,1608,3,16/11/22,0.19,5,5
+49832816928,Sunny Space in Sunnyside - 15 min to Times Square.,SR,verified,Shaina Begum,Queens,FALSE,moderate,Private room,2017,665.12,45,540,1,20/06/22,0.46,4,4
+50145521132,"Private Studio, 15 mins to Manhattan",AP,unconfirmed,Michael & Marie Smith,Queens,TRUE,moderate,Entire home/apt,2021,225.67,207,2484,3,07/02/22,0.03,1,1
+50353274738,Cozy Room in Great APT! Near LGA / Manhattan,PR,verified,Kazuya Parker,Queens,TRUE,flexible,Private room,2013,"1,127.14",39,468,30,30/06/22,3.03,5,12
+52123938662,9.Clean Bed just 20 mnts to Manhattan,SR,unconfirmed,Han Price,Queens,FALSE,strict,Shared room,2013,628.94,198,2376,2,05/06/22,0.84,2,16
+52705004586,"Sunny, colorful, 1BD close to city ",AP,verified,Neisha Begum,Queens,TRUE,flexible,Entire home/apt,2013,366.4,101,1212,1,02/12/22,1.02,2,2
+52741941745,Affordable Sunnyside Room. Comfortable Quiet Safe.,PR,unconfirmed,Kazuya Carter,Queens,TRUE,flexible,Private room,2014,81.5,21,252,30,26/02/22,1.38,5,57
+52995297017,"Shared Spaces;Safe,Great Location 15 to Times Sq",SR,verified,Baboucarr Davis,Queens,FALSE,flexible,Shared room,2019,504.87,192,2304,3,20/05/22,0.6,1,40
+53360700268,Great private room in Sunnyside NYC 7 min Subway,PR,verified,Martin Anderson,Queens,TRUE,strict,Private room,2018,104.38,115,1380,1,03/01/22,0.23,2,1
+53423056777,"Clean & Comfy Private Room, near Manhattan",PR,verified,Tatiana Cook,Queens,TRUE,strict,Private room,2019,697.77,56,672,3,28/06/22,5.64,4,22
+53531083065,Stylish home in Queens,AP,verified,Antonis Clarke,Queens,FALSE,moderate,Entire home/apt,2021,961.89,49,588,5,31/03/22,0.78,4,24
+53743508837,Manhattan & Time Square in 30 minutes. Back room.,PR,unconfirmed,Devika Parker,Queens,FALSE,flexible,Private room,2022,576.1,19,228,5,15/02/22,1.61,5,6
+53772435751,Quiet comfortable clean renovated 15m to Manhattan,PR,verified,Lucky Dee,Queens,TRUE,moderate,Private room,2014,280.95,217,2604,5,13/02/22,0.39,3,2
+54108972480,Private Room beside the 7 Train!,PR,unconfirmed,Megan Anderson,Queens,FALSE,flexible,Private room,2022,246.17,99,1188,2,24/06/22,2.88,4,27
+54172428669,"Cozy 1Br Apartment, Entire Place.",AP,verified,Joseph Foster,Queens,TRUE,moderate,Entire home/apt,2022,96.72,15,180,2,25/11/22,0.06,5,3
+54239801467,"Private Bdrm in Huge Apt mins to Manhtn,JFK,LGA!",PR,unconfirmed,Nataly Morrison,Queens,TRUE,strict,Private room,2021,"1,087.28",183,2196,1,06/08/22,2.07,5,34
+54271705190,Beautiful studio apartment in Sunnyside,AP,unconfirmed,June Ross,Queens,FALSE,moderate,Entire home/apt,2013,495.32,166,1992,2,18/06/22,2.4,3,31
+54972726597,Large apartment mins away from Manhattan.,AP,unconfirmed,Angelica Webb,Queens,TRUE,flexible,Entire home/apt,2012,831.8,193,2316,2,07/07/22,3.76,3,38
+55061294304,Big sunny room in Sunnyside,PR,verified,Oleg Miller,Queens,TRUE,flexible,Private room,2016,344.93,56,672,7,20/06/22,0.43,5,1
+56245242282,"Sunnyside -  Huge Private Bedroom, right by 7train",PR,verified,Serena Henderson,Queens,FALSE,strict,Private room,2015,880.95,12,144,2,02/07/22,4.24,5,70
+57270796552,adorable studio apartment.,AP,verified,Sarita Palmer,Queens,FALSE,moderate,Entire home/apt,2015,967.83,147,1764,1,07/02/22,0.64,3,60
+57565340517,Close to Manhattan! Comfortable area to stay‚ô™,PR,unconfirmed,Shogo Parker,Queens,TRUE,flexible,Private room,2018,60.54,152,1824,30,23/06/22,2.02,5,12
+58475444507,"2 br furnished apartment sublet for August. Prime Sunnyside location, close to restaurants, stores and subway 7train 40 street stop",AP,unconfirmed,Tatiana Clarke,Queens,TRUE,moderate,Entire home/apt,2018,760.71,69,828,1,15/01/22,4.62,4,78
+58723308591,Modern & Peaceful Unit in Queens- 15mins from city,AP,unconfirmed,Aurgho Cook,Queens,TRUE,flexible,Entire home/apt,2014,288.35,235,2820,2,06/10/22,2.98,5,72
+59357727633,Bright 1B just 13 Min To Manhattan,AP,unconfirmed,Fabio Begum,Queens,TRUE,strict,Entire home/apt,2014,343.46,35,420,30,05/01/22,0.39,5,7
+59427976911,Great! Private Room in Sunnyside,PR,verified,Martin ,Queens,FALSE,moderate,Private room,2013,187,133,1596,1,06/05/22,2.4,4,27
+61066743550,Lovely Modest One Bedroom 15-Min from Times Square,PR,verified,Alexander Davis,Queens,FALSE,strict,Private room,2017,407.34,200,2400,1,06/01/22,1.54,2,17
+61835368721,PrivateRoom Queens 1block7train 15minManhattan LGA,PR,unconfirmed,Maria King,Queens,FALSE,moderate,Private room,2019,657.24,92,1104,1,01/02/22,0.17,5,2
+62309529697,"Subway, City Views, Elevator, Large Private Room",PR,unconfirmed,Iulia Price,Queens,FALSE,strict,Private room,2012,"1,001.67",239,2868,1,23/06/22,0.16,2,4
+62798411411,Master bedroom with king size bed and private bath,PR,verified,Vicky Parker,Queens,TRUE,moderate,Private room,2014,"1,126.89",22,264,3,17/05/22,1.05,3,66
+63048339411,Private Room in Spacious Sunnyside Apartment,PR,unconfirmed,Michael Henderson,Queens,FALSE,flexible,Private room,2012,460.37,140,1680,4,27/10/22,3.62,5,18
+63981707220,YOUR  PRIVATE COZY 1Br + 15min from Manhattan,AP,verified,John Butler,Queens,FALSE,moderate,Entire home/apt,2019,"1,194.00",226,2712,1,15/01/22,1,4,1
+64220269891,Good location apartment in Sunnyside!!,PR,unconfirmed,Momoyo Richards,Queens,TRUE,moderate,Private room,2018,"1,128.11",59,708,30,30/12/22,0.16,5,1
+64367593502,2BR Sunny Apt - 15 min from MIDTOWN,AP,unconfirmed,Sen Lee,Queens,FALSE,moderate,Entire home/apt,2013,384.9,158,1896,30,07/01/22,4.93,5,168
+65250849654,"Private Room with bathroom, 10 mins from Manhattan",PR,verified,Ismail Phillips,Queens,TRUE,flexible,Private room,2013,828.14,143,1716,3,07/06/22,3,3,3
+65669043882,Manhattan &Time Square Less than 30min 1st floor.,PR,verified,Devika Davis,Queens,FALSE,moderate,Private room,2021,791.27,216,2592,5,30/05/22,3.53,2,122
+66166064281,A Cozy Room in New York Apartment,PR,unconfirmed,Pavel And Sarah Carter,Queens,TRUE,flexible,Private room,2013,"1,155.67",121,1452,2,28/06/22,0.77,5,1
+66480494414,Charming & Bright private BR w/shared bath&kitchen,PR,verified,Aurgho Price,Queens,TRUE,strict,Private room,2013,"1,079.56",182,2184,1,20/06/22,4.81,3,50
+66710185455,Pre-war gem with Peloton near Manhattan! WFH chic!,AP,unconfirmed,Raquel Cook,Queens,TRUE,strict,Entire home/apt,2020,225.42,97,1164,3,12/12/22,0.38,5,10
+67310746734,Big and lovely apartment in Sunnyside NYC,AP,verified,Martin Butler,Queens,TRUE,flexible,Entire home/apt,2020,910.78,229,2748,1,30/06/22,5.13,4,177
+67395431657,Traditional yet Modern home away from home,PR,unconfirmed,Kelsang Cook,Queens,TRUE,moderate,Private room,2019,486.28,147,1764,1,23/06/22,0.12,5,3
+67771654084,HUGE & BEAUTIFUL 3-Bed apt Queens NYC.A Hidden Gem,AP,unconfirmed,DelGroup Smith,Queens,FALSE,moderate,Entire home/apt,2013,828.45,65,780,30,06/01/22,1.15,2,2
+68423794569,"NYC 3 bed, full frnshd Apt, city 5 mins - Monthly",AP,unconfirmed,Rafu Lloyd,Queens,FALSE,moderate,Entire home/apt,2015,108.4,111,1332,4,01/02/22,1.67,5,5
+68847436949,Spacious studio close to Manhatten,AP,unconfirmed,Michael Webb,Queens,TRUE,moderate,Entire home/apt,2016,444.75,175,2100,1,02/05/22,2.33,2,57
+69879810643,1 Bedroom Apt. Sunnyside Queens!,PR,verified,Jake Parker,Queens,FALSE,flexible,Private room,2020,368.1,214,2568,7,13/02/22,0.49,2,4
+71214915836,8. Beautiful clean room 20mnts to Manhattan,PR,unconfirmed,Han Anderson,Queens,TRUE,strict,Private room,2016,272.45,137,1644,2,01/03/22,0.02,4,2
+71701500314,"Stunning modern 1BR APT, 15min from grand central",AP,unconfirmed,Guy Smith,Queens,FALSE,flexible,Entire home/apt,2017,961.82,204,2448,2,07/01/22,4.48,3,10
+71928475668,Cozy room in Sunnyside Gardens (near Manhattan),PR,verified,Lidia Cook,Queens,TRUE,moderate,Private room,2019,482.13,178,2136,3,19/06/22,2.25,5,88
+72295799370,Girls only,PR,unconfirmed,Yaren Parker,Queens,FALSE,strict,Private room,2019,686.21,95,1140,3,01/03/22,0.29,2,4
+73346464026,Clean homey renovated convenient 15m to Manhattan,PR,unconfirmed,Lucky Carter,Queens,FALSE,moderate,Private room,2022,476.13,223,2676,3,07/02/22,0.9,2,8
+74910251647,Vintage NYC apt 15min from Times Sq,AP,unconfirmed,Steven Armitage,Queens,TRUE,flexible,Entire home/apt,2019,397.3,79,948,3,23/05/22,0.29,5,3
+75272742662,Highclass clean and calm,PR,unconfirmed,Habiba Price,Queens,FALSE,flexible,Private room,2014,732.9,139,1668,1,01/02/22,0.04,4,2
+75731172294,5. Beautiful Clean room just 20mnts to Manhattan,PR,verified,Han Henderson,Queens,FALSE,moderate,Private room,2014,827.31,82,984,2,23/06/22,0.19,2,4
+76112304869,Safe room in a quiet neighborhood. Near Manhattan!,PR,verified,Kazuya Richards,Queens,FALSE,strict,Private room,2012,694.6,143,1716,30,07/01/22,1.27,4,8
+76183594978,Private room in Sunnyside Gardens,PR,unconfirmed,Josefina Cook,Queens,FALSE,moderate,Private room,2021,408.72,66,792,2,27/03/22,3.63,1,166
+76189956810,International Shared Wiggle Room BEST for Groups,SR,verified,Baboucarr Price,Queens,TRUE,flexible,Shared room,2015,382.36,236,2832,3,06/11/22,2.31,3,55
+76283328913,"Artsy One Bedroom Apartment in Sunnyside, LIC",AP,unconfirmed,Paulo Ross,Queens,TRUE,moderate,Entire home/apt,2018,713.76,114,1368,5,02/07/22,0.59,4,41
+76592562275,Cozy Sunnyside private room with kitchenette/bath,PR,unconfirmed,Alex Parker,Queens,TRUE,moderate,Private room,2020,"1,181.20",49,588,3,30/06/22,0.06,5,2
+76784580990,A Nice and Warm Place to Stay in Sunnyside!,PR,unconfirmed,Kazuya Richards,Queens,TRUE,moderate,Private room,2020,572.19,120,1440,30,23/06/22,0.23,2,6
+77592442646,Great location 15minutes to South central park NYC,PR,unconfirmed,John Davis,Queens,FALSE,moderate,Private room,2017,461.6,48,576,2,25/02/22,1.68,5,60
+78019807942,A Shared Space in a Shared Room,SR,unconfirmed,Baboucarr Cook,Queens,TRUE,strict,Shared room,2021,425.7,123,1476,3,16/06/22,1,5,1
+78151147853,Cozy private room by the 7 train,PR,unconfirmed,Kwenhi Parker,Queens,TRUE,moderate,Private room,2019,285.1,119,1428,2,01/02/22,0.39,4,9
+78734842855,Big Sunlit Studio - Nice Bed - 18 min to Manhattan,AP,unconfirmed,Jp Foster,Queens,TRUE,flexible,Entire home/apt,2014,459.2,137,1644,7,07/07/22,0.19,3,3
+79150423292,"1 Bedroom apartment in Woodside, NY",AP,verified,Eliana Palmer,Queens,TRUE,flexible,Entire home/apt,2017,977.41,63,756,2,28/06/22,4.01,3,33
+79216870569,Sunny room with private terrace in Sunnyside,PR,unconfirmed,M Anderson,Queens,FALSE,strict,Private room,2018,686.69,209,2508,3,28/06/22,1.54,5,66
+79330864885,"15 Min  Manhattan, Safe, Clean, Quiet, Good Price",SR,verified,Melih Davis,Queens,FALSE,moderate,Shared room,2022,235.3,110,1320,30,12/03/22,0.13,4,4
+79508795619,Cozy apartment in PERFECT location!,SR,unconfirmed,Brenda Richards,Queens,FALSE,moderate,Shared room,2017,315.44,11,132,1,15/06/22,1.87,2,92
+80310403664,"Studio Rental in Sunnyside, Queens!",AP,verified,Maggie Wilson,Queens,FALSE,moderate,Entire home/apt,2019,868.84,86,1032,10,07/02/22,3.72,2,14
+82998993746,Cozy Room in NYC!  =),PR,unconfirmed,Rene Phillips,Queens,TRUE,flexible,Private room,2014,853.5,99,1188,5,07/02/22,4.06,4,66
+83304435557,Private Room minutes to/from Manhattan,PR,unconfirmed,Anna Smith,Queens,TRUE,flexible,Private room,2019,494.9,48,576,3,24/08/22,1.41,4,6
+83362392791,1BR Vintage APT - 15 min to Midtown,AP,verified,Steven Foster,Queens,TRUE,moderate,Entire home/apt,2016,882.4,180,2160,30,12/01/21,0.32,2,1
+83390828660,Dream Room in Sunnyside New York,PR,unconfirmed,Nancy Miller,Queens,TRUE,flexible,Private room,2021,383.6,122,1464,3,07/05/22,6.32,4,20
+83861740832,"15 min  Manhattan. Quiet, Safe, Clean, Good  price",SR,verified,Melih Edwards,Queens,TRUE,flexible,Shared room,2015,239.21,236,2832,7,25/02/22,2.82,3,11
+83880993053,12 mins to Times Square; 10 mins to LGA!,AP,verified,Carol Richards,Queens,FALSE,flexible,Entire home/apt,2020,902.16,110,1320,2,29/06/22,2,4,2
+85511701654,Humble abode residing 20 minutes away from city,PR,verified,Kelsang Carter,Queens,TRUE,moderate,Private room,2012,359.8,16,192,1,28/06/22,0.43,2,6
+87091220022,Well-lit Sunnyside room. Classic feel. New beddings!,PR,unconfirmed,Kaz Martell,Queens,TRUE,moderate,Private room,2016,141.48,58,696,30,15/10/22,0.05,2,1
+87336698122,2BR Comfy Apt - 15min from MIDTOWN,AP,verified,Steven Smith,Queens,FALSE,moderate,Entire home/apt,2019,525.9,230,2760,30,07/02/22,3.21,5,25
+87812362490,Clean cozy renovated convenient 15m to Manhattan,PR,verified,Lucky Carter,Queens,FALSE,flexible,Private room,2015,108.87,35,420,5,07/01/22,1.31,2,12
+87843674896,Gorgeous single room in Sunnyside near Manhattan,PR,unconfirmed,Suzanne Phillips,Queens,FALSE,moderate,Private room,2020,"1,149.25",86,1032,2,06/11/22,2.55,2,4
+88192904494,Room close to  Manhattan for FEMALE guests,PR,verified,Sevil Cook,Queens,FALSE,strict,Private room,2014,147.55,66,792,5,25/01/22,0.18,4,1
+88820965545,Amanecer espectacular con terraza privada,PR,verified,Any Davis,Queens,TRUE,moderate,Private room,2018,262.92,153,1836,1,10/01/21,0.1,3,3
+90522246464,"Studio Apt in Queens, 15Mins to Midtown & Brooklyn",AP,verified,Eduardo Lee,Queens,TRUE,flexible,Entire home/apt,2020,330.3,204,2448,2,07/02/22,2.23,5,70
+91593096194,Modern room very near Manhattan with free pickup!,PR,unconfirmed,Jared Price,Queens,TRUE,flexible,Private room,2014,"1,022.28",157,1884,1,03/09/22,0.46,1,15
+91847172333,"BEAUTIFUL APARTMENT IN NEW YORK, in quiet neighborhood 15 minutes from Manhattan !",AP,unconfirmed,Daniela Smith,Queens,FALSE,strict,Entire home/apt,2018,481.29,99,1188,1,01/03/22,0.29,2,9
+95176263395,Garden apt 15 mins from Manhattan,PR,unconfirmed,Cris Richards,Queens,TRUE,flexible,Private room,2013,494.7,141,1692,30,15/01/22,2.21,5,78
+95753912306,Stylish Two Bedroom Apt 10 minutes to Manhattan,AP,verified,Priscila Scott,Queens,FALSE,flexible,Entire home/apt,2018,309.5,114,1368,90,07/07/22,3.85,2,28
+96762341217,Gorgeous NYC Hideout 20min to Times Square,AP,unconfirmed,Konni Palmer,Queens,TRUE,strict,Entire home/apt,2015,966.61,75,900,4,16/11/22,0.99,5,12
+97797683521,Big private room in Sunnyside NYC 7 min Subway,PR,unconfirmed,Martin Price,Queens,FALSE,strict,Private room,2019,374.49,188,2256,1,28/07/22,0.47,5,10
+98068898007,18min to Manhattan &Safe Neighborhood&PrivateRoom,PR,verified,Takatomo Parker,Queens,FALSE,moderate,Private room,2013,941.92,141,1692,30,26/06/22,2.86,4,23
+98553953146,SHARE;CHEAPEST;Pure;Cozy;Safe;Silent IN NEW YORK,SR,verified,Erin V. Davis,Queens,FALSE,moderate,Shared room,2013,829.22,138,1656,1,06/07/22,2.5,3,5
+98661825613,A Comfy Home in a Bustling City,AP,verified,Zain Alba,Queens,FALSE,moderate,Entire home/apt,2013,701.27,138,1656,4,17/06/22,1.82,2,26
